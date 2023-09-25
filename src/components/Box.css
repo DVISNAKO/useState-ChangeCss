@@ -1,0 +1,36 @@
+.wrapper {
+    display: flex;
+    background-color: 2 solid black;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+  }
+
+  .blue {
+    background-color: blue;
+  }
+
+  .pink{
+    background-color:pink;
+  }
+
+  .box {
+    display: flex;
+    justify-content: center;
+  
+    align-items:center;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+.new__color{
+    color: white;
+    font-size: 40px;
+}
+
+.new__border {
+    border: 3px solid red;
+}
