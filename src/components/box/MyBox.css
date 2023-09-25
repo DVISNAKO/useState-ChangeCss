@@ -1,0 +1,22 @@
+.myBox {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new__backgroud {
+    background-color: pink;
+}
+
+.new__color {
+    color: red;
+    font-size: 30px;
+}
+
+.hidden {
+    display: none;
+}

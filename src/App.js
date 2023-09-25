@@ -1,11 +1,11 @@
 import './App.css';
-import Box from './components/Box';
-import Button from './components/Button';
+import MyModal from './components/modal/MyModal';
+
 
 function App() {
   return (
     <div className="App">
-      <Box/>
+      <MyModal/>
     </div>
   );
 }
